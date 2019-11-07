@@ -6,7 +6,8 @@
 This GBC Module has been built to accompany the official Lego set, Andrea's Heart Box (41354) which was released in January 2019.
 
 <P>Video: URL To Come
-<P>Instructions: I
+<P>Instructions: https://github.com/rykfield/REF07-Andreas-Tunnel-Of-Love/raw/master/REF07%20-%20Andreas%20Tunnel%20Of%20Love.pdf
+
 <P>Parts List: https://github.com/rykfield/REF07-Andreas-Tunnel-Of-Love/raw/master/REF07%20-%20Andreas%20Tunnel%20Of%20Love.xml
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
